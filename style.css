@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+text-align: center;
+}
+img {
+  text-align: center;
+}
+nav a {
+padding: 10px;
+background-color: orange;
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+#featured-property a {
+text-align: center;
+width: 800px;
+}
+#details {
+  -ms-text-combine-horizontal: all;
+}
+div {
+  background-color: blueviolet;
+  text-align: center 25%;
+}
