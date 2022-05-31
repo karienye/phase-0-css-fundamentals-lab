@@ -1,7 +1,5 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+  text-align: center;
 }
 h1 {
 text-align: center;
@@ -25,6 +23,7 @@ width: 800px;
   -ms-text-combine-horizontal: all;
 }
 div {
+  text-align: horizontal;
   background-color: blueviolet;
   text-align: center 25%;
 }
